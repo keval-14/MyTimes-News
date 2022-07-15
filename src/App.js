@@ -4,6 +4,7 @@ import { Routes, Route } from "react-router-dom";
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import News from "./components/News";
+import Footer from "./components/Footer";
 
 export default class App extends Component {
   pageSize = 15;
@@ -116,8 +117,10 @@ export default class App extends Component {
                 />
               }
             />
+            {/* <Route exact path="/about" element={<About />} /> */}
           </Routes>
         </Router>
+        <Footer />
       </>
     );
   }
