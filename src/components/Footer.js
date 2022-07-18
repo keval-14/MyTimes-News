@@ -42,7 +42,7 @@ export default function App() {
                   <MDBInput
                     contrast
                     type="email"
-                    label="Enter Email address above"
+                    placeholder="Enter Email address here"
                     className="mb-4"
                   />
                 </MDBCol>
