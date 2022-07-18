@@ -3,7 +3,6 @@ import "./Footer.css";
 import {
   MDBFooter,
   MDBContainer,
-  MDBIcon,
   MDBInput,
   MDBCol,
   MDBRow,
