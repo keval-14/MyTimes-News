@@ -21,7 +21,7 @@ export class News extends Component {
     this.state = {
       //articles: [],
       loading: true,
-      // page: 1,
+      page: 1,
     };
   }
 
