@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MyTimes-News/static/css/main.6efa1d50.css",
+    "main.js": "/MyTimes-News/static/js/main.9ce505a3.js",
+    "static/js/787.4c026eef.chunk.js": "/MyTimes-News/static/js/787.4c026eef.chunk.js",
+    "index.html": "/MyTimes-News/index.html",
+    "main.6efa1d50.css.map": "/MyTimes-News/static/css/main.6efa1d50.css.map",
+    "main.9ce505a3.js.map": "/MyTimes-News/static/js/main.9ce505a3.js.map",
+    "787.4c026eef.chunk.js.map": "/MyTimes-News/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6efa1d50.css",
+    "static/js/main.9ce505a3.js"
+  ]
+}
